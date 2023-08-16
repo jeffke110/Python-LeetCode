@@ -8,7 +8,6 @@ class Solution:
             return ""
         cmpstr : str = strs[0]
 
-        # fish fif
         for index in range(1, len(strs)):
 
             element = strs[index]
